@@ -16,8 +16,7 @@ Upon running the project,a pop up apperas on the screen,as to-do-window.Here we 
 ## Libraries used
 Library Name - Nodejs,Electron,npm
 ## How to configure
-Instructions for setting up project
 Ensure that nodejs and electron is installed.
 ## How to Run
-Instructions for running
+
 After cloning the project,ensure that package.json file is created.Type "npm start" after opening a new terminal.The window emerges.
