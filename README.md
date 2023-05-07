@@ -8,7 +8,7 @@ Through this project we will be able to have an interactive to-do-app,which is v
 2. Celia S Mathew [https://github.com/Celci2000]
 3. Aswathy Sabu [https://github.com/Aswathysabu]
 ## Link to product walkthrough
-[link to video]
+[https://drive.google.com/file/d/1UzrfFj009D_S0qIy9CuF4u0_kG7zLxbA/view?usp=share_link]
 ## How it Works ?
 1. Explaining the working of project
 Upon running the project,a pop up apperas on the screen,as to-do-window.Here we are asked to give the data as well as dates on which the activities are to be done.
