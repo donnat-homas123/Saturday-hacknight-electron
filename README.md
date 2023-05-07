@@ -13,6 +13,7 @@ Through this project we will be able to have an interactive to-do-app,which is v
 1. Explaining the working of project
 Upon running the project,a pop up apperas on the screen,as to-do-window.Here we are asked to give the data as well as dates on which the activities are to be done.
 2. Embed video of project demo
+https://drive.google.com/file/d/1UzrfFj009D_S0qIy9CuF4u0_kG7zLxbA/view?usp=share_link
 ## Libraries used
 Library Name - Nodejs,Electron,npm
 ## How to configure
